@@ -10,12 +10,12 @@ Undergraduate research assistants have collected data and engaged in codebook re
 
 This respository contains the eleven figures (8 bar plots, 3 heat maps) that I created from scratch. 
 
-Figure 3 compares the outcomes of cases reviewed by institutions
+[Figure 3](Figure%203) compares the outcomes of cases reviewed by institutions
 
-Figures 7a-d show the relationships between the type of human rights issue raised and NGO involvement
+[Figures 7a-d](Figures%207a-d) show the relationships between the type of human rights issue raised and NGO involvement
 
-Figure 10 shows the relationship between World Bank project type and positive outcomes of cases
+[Figure 10](Figure%2010) shows the relationship between World Bank project type and positive outcomes of cases
 
-Figures 13a-c are log-scaled geographic heatmaps of case occurences 
+[Figures 13a-c](Figures%2013a-c) are log-scaled geographic heatmaps of case occurences 
 
-Figures 14a-b show the relationship between victim complaint quality and NGO involvement
+[Figures 14a-b](Figures%2014a-b) show the relationship between victim complaint quality and NGO involvement
